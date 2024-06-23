@@ -1,4 +1,4 @@
-# DDFM (ICCV 2023 Oral)
+# DDFM (ICCV 2023）
 
 Codes for ***DDFM: Denoising Diffusion Model for Multi-Modality Image Fusion. (ICCV 2023 Oral)***
 
